@@ -9,8 +9,8 @@ public class Main {
             a++;
             sum += i;
             System.out.println(a + ") Num is " + i + "," + " sum is " + sum);
-
         }
+        System.out.println("---------------------" + "\nSum of numbers is " + sum);
     }
 }
 
